@@ -1,0 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/equalweb/"
+versions:
+  - sha: f393d172dc957230edfb261acf5c8048daba71ed
+    changeNotes: Initial release
